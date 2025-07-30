@@ -31,10 +31,13 @@ A simple C++ console-based Rock Paper Scissors game where you can play against t
 <img width="957" height="502" alt="image" src="https://github.com/user-attachments/assets/2014a9d1-1d35-4f59-9adf-35cf7400a2b7" />
 
 
-👨‍💻 Author
-Ahmed Al-Wazir
-📬 GitHub Profile
+## 👨‍💻 Author
 
-📜 License
+**Ahmed Al-Wazir**  
+📬 [GitHub Profile](https://github.com/DEADCODE0O)
+
+---
+
+## 📜 License
+
 This project is licensed for educational and personal use. Commercial use or redistribution without permission is not allowed.
-
